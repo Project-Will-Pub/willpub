@@ -49,7 +49,7 @@ public class TopBar extends Region {
         rightBox.setAlignment(Pos.CENTER_RIGHT);
         // Center preference
         HBox.setHgrow(centerBox, Priority.ALWAYS);
-        centerBox.setMaxSide(Double.MAX_VALUE, Double.MAX_VALUE);
+        centerBox.setMaxSize(Double.MAX_VALUE, Double.MAX_VALUE);
         centerBox.setAlignment(Pos.CENTER);
 
         container.getChildren().addAll(leftBox, centerBox, rightBox);
