@@ -13,6 +13,43 @@
         <module>ui</module>
     </modules>
     <packaging>pom</packaging>
+    
+    <inceptionYear>2022</inceptionYear>
+
+    <licenses>
+        <license>
+            <name>BSD 3-Clause "New" or "Revised" License</name>
+            <url>https://opensource.org/licenses/BSD-3-Clause</url>
+        </license>
+    </licenses>
+
+    <contributors>
+        <contributor>
+            <name>Cyrus Chan</name>
+            <url>https://www.rk0cc.xyz</url>
+            <email>enquiry@rk0cc.xyz</email>
+            <timezone>8</timezone>
+        </contributor>
+    </contributors>
+
+    <developers>
+        <developer>
+            <name>Cyrus Chan</name>
+            <url>https://www.rk0cc.xyz</url>
+            <email>enquiry@rk0cc.xyz</email>
+            <timezone>8</timezone>
+        </developer>
+    </developers>
+         
+    <scm>
+        <connection>scm:git:https://github.com/Project-Will-Pub/willpub.git</connection>
+        <developerConnection>scm:git:https://github.com/Project-Will-Pub/willpub.git</developerConnection>
+        <url>https://github.com/Project-Will-Pub/willpub/tree/main</url>
+    </scm>
+    
+    <prerequisites>
+        <maven>3.3.1</maven>
+    </prerequisites>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
