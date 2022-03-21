@@ -48,6 +48,7 @@
     </scm>
     
     <prerequisites>
+        <!-- Maven version that support the higher minimum Java version -->
         <maven>3.3.1</maven>
     </prerequisites>
 
