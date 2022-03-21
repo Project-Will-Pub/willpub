@@ -1,7 +1,7 @@
 Licenses of Will Pub
 
 Will Pub uses BSD 3-Clause license for both binary and source code. With Adoptium (Temurin)
-OpenJDK compiled that under Apache License 2.0.
+OpenJDK compiled and bundled JRE which under Apache License 2.0.
 
 =========   BSD 3-Clause license    ==========
 
